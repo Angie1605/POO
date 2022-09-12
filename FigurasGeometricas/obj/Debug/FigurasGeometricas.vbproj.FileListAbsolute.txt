@@ -1,0 +1,12 @@
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\bin\Debug\FigurasGeometricas.xml
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\obj\Debug\FigurasGeometricas.vbproj.AssemblyReference.cache
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\obj\Debug\FigurasGeometricas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\obj\Debug\FigurasGeometricas.Resources.resources
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\obj\Debug\FigurasGeometricas.vbproj.GenerateResource.cache
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\obj\Debug\FigurasGeometricas.vbproj.CoreCompileInputs.cache
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\obj\Debug\FigurasGeometricas.xml
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
